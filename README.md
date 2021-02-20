@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...GitHub
-- 🌱 I’m currently learning ...Git and github
+- 🌱 I’m currently learning ...Java, Datastructures in C
 - 📫 How to reach me: ...vkdmeenakshi@gmail.com
